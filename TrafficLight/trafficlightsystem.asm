@@ -1,6 +1,6 @@
 /*
 * filename: Final Traffic Light Finite State Machine
-* Author: Luke Pestaille
+* Author: Luke
 * Date: 5/12/22
 * Revision Number: 4
 * Target Device: PIC18F452
