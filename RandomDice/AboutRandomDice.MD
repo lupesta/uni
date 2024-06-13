@@ -1,0 +1,1 @@
+This project involved the creation of a six sided random dice in assembly language that would produce an number based on the LED arrangement on a breadboard, alongside various other digital components
