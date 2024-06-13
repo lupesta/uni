@@ -1,0 +1,1 @@
+These two .pynb files contain code for forecasting grid stability for a dataset using two different machine learning model methods. The first "LR" indicates Linear Regression and the second "NN" indicates neural networks
