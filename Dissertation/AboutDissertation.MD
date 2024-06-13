@@ -1,0 +1,2 @@
+The final year project that I selected for third year Electronic Engineering was the creation of a Smart Water Bottle. This involved the creation of a 10000 word report, the building of my design, which included various 
+components such as a Nano ESP32 microcontroller, a HC-SR04 ultrasonic sensor, a LIS3DH accelerometer and an LM35 temperature sensor and the development of the code which can be seen in this folder.
