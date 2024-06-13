@@ -28,10 +28,10 @@ int consumptiongoal = 3000;  // Consumption goal can be set to any value accordi
 float gravitydifference;     // The difference between flat surface 
 int counter = 0;
 
-const char* ssid = "Lukesphone";
-const char* password = "swimmingiscool";
-String phoneNumber = "+447932955545";
-String apiKey = "5657074";
+const char* ssid = //enter here the ssid of the network you wish the connect to;
+const char* password = //enter here the password of the network you wish the connect to;
+String phoneNumber = //enter your phone number here to allow messages from callmebot;
+String apiKey = //enter the value of the API key that will be provided to you once you set up callmebot api;
 String fillupMessage = "Bottle is being filled up...";
 String consumptionMessage = "Water is being consumed...";
 String goalreachedMessage = "Congratulations your water consumption goal has been reached today, well done!";
